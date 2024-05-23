@@ -185,7 +185,7 @@ else if ($Won == 'noStatos'){
             echo "<input type='button'  value= 'بازی دوباره' id='again' onclick='window.location.href=\"game_friends.php\"'>";
             
             }
-            echo "<input type='button'  value= 'بازگشت' id='again' onclick='window.location.href=\"index.php\"'>";
+            echo "<input type='button'  value= 'بازگشت' id='again' onclick='window.location.href=\"index.html\"'>";
             ?>
 
         </form>

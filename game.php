@@ -190,7 +190,7 @@ else if ($Won == 'noStatos'){
             }
             
             ?>
-            <input type='button'  value= 'بازگشت' id='again' onclick='window.location.href="index.php"'>
+            <input type='button'  value= 'بازگشت' id='again' onclick='window.location.href="index.html"'>
 
         </form>
     </div>
